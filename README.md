@@ -4,19 +4,19 @@
 
 | Package    | Description | Author  |
 | --------   | -------     | ------- |
-| [unocss-preset-useful](https://github.com/unpreset/unocss-preset-useful) | Integrate and useful preset | [@zyyv](https://github.com/zyyv) |
-| [unocss-preset-theme](https://github.com/unpreset/unocss-preset-theme) | The dynamic theme presets for UnoCSS | [@Dunqing](https://github.com/Dunqing) |
-| [unocss-preset-autoprefixer](https://github.com/unpreset/unocss-preset-autoprefixer) | Autoprefixer Preset | [@zouhang](https://github.com/zouhangwithsweet) |
-| [unocss-preset-palette](https://github.com/unpreset/unocss-preset-palette) | Palette Preset for UnoCSS | [@chizukicn](https://github.com/chizukicn) |
-| [unocss-preset-scrollbar](https://github.com/unpreset/unocss-preset-scrollbar) | Scrollbar for UnoCSS preset | [@action-hong](https://github.com/action-hong) |
+| [unocss-preset-useful](https://github.com/unocss-community/unocss-preset-useful) | Integrate and useful preset | [@zyyv](https://github.com/zyyv) |
+| [unocss-preset-theme](https://github.com/unocss-community/unocss-preset-theme) | The dynamic theme presets for UnoCSS | [@Dunqing](https://github.com/Dunqing) |
+| [unocss-preset-autoprefixer](https://github.com/unocss-community/unocss-preset-autoprefixer) | Autoprefixer Preset | [@zouhang](https://github.com/zouhangwithsweet) |
+| [unocss-preset-palette](https://github.com/unocss-community/unocss-preset-palette) | Palette Preset for UnoCSS | [@chizukicn](https://github.com/chizukicn) |
+| [unocss-preset-scrollbar](https://github.com/unocss-community/unocss-preset-scrollbar) | Scrollbar for UnoCSS preset | [@action-hong](https://github.com/action-hong) |
 
 
 ## Community transformers
 
 | Package    | Description | Author  |
 | --------   | -------     | ------- |
-| [unocss-transformer-alias](https://github.com/unpreset/unocss-transformer-alias) | Transform alias for UnoCSS shortcuts | [@zyyv](https://github.com/zyyv) |
-| [unocss-transformer-hash](https://github.com/unpreset/unocss-transformer-hash) | Hash UnoCSS utilities. | [@zyyv](https://github.com/zyyv) |
+| [unocss-transformer-alias](https://github.com/unocss-community/unocss-transformer-alias) | Transform alias for UnoCSS shortcuts | [@zyyv](https://github.com/zyyv) |
+| [unocss-transformer-hash](https://github.com/unocss-community/unocss-transformer-hash) | Hash UnoCSS utilities. | [@zyyv](https://github.com/zyyv) |
 
 
 ## Community UI library
