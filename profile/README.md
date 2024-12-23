@@ -1,10 +1,10 @@
-<samp>UnPreset</samp>
+<samp>UnoCSS Community</samp>
 
-UnoCSS community presets for UnPreset.
+UnoCSS community collection of presets and transformers.
 
-We aim to provide a wonderful home for all uno presets 💜.
+We aim to provide a wonderful home for all uno tools 💜.
 
-[<samp>View All Presets</samp>](https://github.com/unpreset/.github)
+[<samp>View All Presets</samp>](https://github.com/unocss-community/.github)
 
-[<samp>contribute package</samp>](https://github.com/unpreset/.github/blob/main/PACKAGE_CONTRIBUTE.md) <samp> | </samp> [<samp>governance</samp>](https://github.com/unpreset/.github/blob/main/GOVERNANCE.md)
+[<samp>contribute package</samp>](https://github.com/unocss-community/.github/blob/main/PACKAGE_CONTRIBUTE.md) <samp> | </samp> [<samp>governance</samp>](https://github.com/unocss-community/.github/blob/main/GOVERNANCE.md)
 

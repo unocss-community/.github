@@ -1,6 +1,6 @@
-# UnPreset Organization Governance
+# UnoCSS Community Organization Governance
 
-UnPreset organization is a community-driven collection of unpresets. Each repository is autonomous, maintained and distributed by it's own maintainers. The team has a loose structure, that each repository many have it's own decision making process, and the team is there to help and support.
+UnoCSS Community organization is a community-driven collection of presets and transformers. Each repository is autonomous, maintained and distributed by it's own maintainers. The team has a loose structure, that each repository many have it's own decision making process, and the team is there to help and support.
 
 In case a repository's maintainers are temporarily unavailable, the team may help to maintain the repository or doing necessary hot releases under the agreement of the team members.
 
