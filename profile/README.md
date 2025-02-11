@@ -1,8 +1,8 @@
 <samp>UnoCSS Community</samp>
 
-UnoCSS community collection of presets and transformers.
+UnoCSS community collection of presets, transformers, frameworks and tools. We aim to provide a wonderful community for all uno tools 💜.
 
-We aim to provide a wonderful home for all uno tools 💜.
+You can refer to [Awesome UnoCSS](https://github.com/unocss-community/awesome-unocss) to find the presets you need or contribute your own presets.
 
 [<samp>View All Presets</samp>](https://github.com/unocss-community/.github)
 
