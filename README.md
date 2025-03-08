@@ -9,6 +9,7 @@
 | [unocss-preset-autoprefixer](https://github.com/unocss-community/unocss-preset-autoprefixer) | Autoprefixer Preset | [@zouhang](https://github.com/zouhangwithsweet) |
 | [unocss-preset-palette](https://github.com/unocss-community/unocss-preset-palette) | Palette Preset for UnoCSS | [@chizukicn](https://github.com/chizukicn) |
 | [unocss-preset-scrollbar](https://github.com/unocss-community/unocss-preset-scrollbar) | Scrollbar for UnoCSS preset | [@action-hong](https://github.com/action-hong) |
+| [unocss-preset-better-breakpoints](https://github.com/ZaneL1u/unocss-preset-better-breakpoints) | Better breakpoints presets for UnoCSS | [@ZaneL1u](https://github.com/ZaneL1u) |
 
 
 ## Community transformers
